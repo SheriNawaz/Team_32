@@ -16,9 +16,9 @@ public class Driver {
      */
     public static void main(String[] args) {
         // Database connection details
-        String url = "jdbc:mysql://smcse-stuproj00.city.ac.uk:3306/in2033t32";
-        String username = "in2033t32_a";
-        String password = "7VQ_A-ZBz2w";
+        String url = "";
+        String username = ""
+        String password = "";
 
         // JDBC objects
         Statement statement1 = null;
